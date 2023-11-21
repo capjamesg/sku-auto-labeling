@@ -1,5 +1,9 @@
 # SKU Auto Labeling (Computer Vision)
 
+<img width="843" alt="Screenshot 2023-11-20 at 19 00 00" src="https://github.com/capjamesg/sku-auto-labeling/assets/37276661/6d4fd1f3-80ea-4d37-8229-6eafe0935b26">
+
+Above, inference results from a trained model that uses data labeled with this project.
+
 Use Grounding DINO and CLIP to auto-label SKUs and product covers.
 
 ## Project Description
@@ -55,7 +59,7 @@ There may be corrections required before you can train a model with your dataset
 
 ## Example Project
 
-I trained a vinyl record detection model with this script. With 42 images used for training, and around two minutes of manual data correction, the model achieved a 95.3% mAP.
+I trained a [vinyl record detection model](https://app.roboflow.com/capjamesg/records-autodistill/deploy/2) with this script. With 42 images used for training, and around two minutes of manual data correction, the model achieved a 95.3% mAP.
 
 ## License
 
